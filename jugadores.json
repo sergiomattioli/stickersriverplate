@@ -673,6 +673,162 @@
           "emojis": []
         }
       ]
+    },
+        {
+      "identifier": "leyendas1",
+      "name": "Stickers Leyendas 1",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Image1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image15.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "leyendas2",
+      "name": "Stickers Leyendas 2",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Image1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Image18.webp",
+          "emojis": []
+        }
+      ]
     }
   ]
 }
