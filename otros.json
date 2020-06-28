@@ -1,0 +1,1182 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+    {
+      "identifier": "emojis",
+      "name": "Pack Emojis",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "poster1",
+      "name": "Pack Poster",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "newyear",
+      "name": "Pack Feliz 2020",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "navidad",
+      "name": "Stickers Navidad",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "bened.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CARP2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "escudo.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "gallar.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GALLARDO.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "GALLARDO5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "juanfer.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LIBERTADORES.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MUNE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "nacho.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "PITY.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "fiesta",
+      "name": "Feliz Dia del Hincha",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "hincha",
+      "name": "Pack Hincha",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "nuevacamiseta",
+      "name": "Camiseta 2019",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "recopa2019",
+      "name": "Recopa 2019",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "gol",
+      "name": "Stickers Gol",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "momentos2",
+      "name": "Grandes Momentos 2",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "momentos1",
+      "name": "Grandes Momentos 1",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "camisetas",
+      "name": "Stickers Camisetas",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "hinchada",
+      "name": "Stickers Hinchada",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "clubriver1",
+      "name": "Stickers Club 1",
+      "publisher": "Astro Mobile",
+      "tray_image_file": "tray.png",
+      "publisher_website": "",
+      "publisher_email": "astro.mobile.soft@gmail.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "CAMISETA SUPLENTE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CAMISETA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CARP.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CARP2.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CARP3.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "CARP4.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "COPA ARGENTINA.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "Copia de escudo.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "EL MAS GRANDE.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LEON.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "LIBERTADORES.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MONU.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "MONUMENTAL.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "SUPERCOPA.webp",
+          "emojis": []
+        }
+      ]
+    }
+   ]
+}
