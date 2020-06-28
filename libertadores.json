@@ -1,680 +1,966 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "libertadores2020a",
-      "name": "Copa Libertadores 2020 (1)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"libertadores2020a",
+         "name":"Copa Libertadores 2020 (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
 
-      ]
-    },
-        {
-      "identifier": "prefinal2019",
-      "name": "Previa Final 2019",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        }
-      ]
-    },
-        {
-      "identifier": "libertadores2019d",
-      "name": "Libertadores Finalista",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "libertadores2019b",
-      "name": "Libertadores (Previa Semi)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "30.webp",
-          "emojis": []
-        }
-      ]
-    },
-        {
-      "identifier": "libertadores2019",
-      "name": "Copa Libertadores 2019 (3)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "libertadores2019c",
-      "name": "Copa Libertadores 2019 (2)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        }
-      ]
-    },
-        {
-      "identifier": "libertadores2018",
-      "name": "Copa Libertadores 2018 (1)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "bened.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "BENEDF.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "chapa.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "ENZO.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "gallar.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "gallardo.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "gallardo2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "MAIDA.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "nacho.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "OSO.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "PITY.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "ponzio.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "campeon2018",
-      "name": "Copa Libertadores 2018 (2)",
-      "publisher": "Astro Mobile",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "astro.mobile.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "ARMANI.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "enzo.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "enzo2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "gallardo.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "juanfer.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "juanfer2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "juanfer3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "mora.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "pity.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "PITY2.webp",
-          "emojis": []
-        }
-      ]
-    }
-  ]
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"prefinal2019",
+         "name":"Previa Final 2019",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2019d",
+         "name":"Libertadores Finalista",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2019b",
+         "name":"Libertadores (Previa Semi)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"30.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2019",
+         "name":"Copa Libertadores 2019 (3)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2019c",
+         "name":"Copa Libertadores 2019 (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2018",
+         "name":"Copa Libertadores 2018 (1)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"bened.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"BENEDF.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"chapa.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"ENZO.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"gallar.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"gallardo.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"gallardo2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"MAIDA.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"nacho.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"OSO.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"PITY.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"ponzio.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"campeon2018",
+         "name":"Copa Libertadores 2018 (2)",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "stickers":[
+            {
+               "image_file":"ARMANI.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"enzo.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"enzo2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"gallardo.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"juanfer.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"juanfer2.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"juanfer3.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"mora.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"pity.webp",
+               "emojis":[
+
+               ]
+            },
+            {
+               "image_file":"PITY2.webp",
+               "emojis":[
+
+               ]
+            }
+         ]
+      }
+   ]
 }
-
