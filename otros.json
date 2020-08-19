@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
     {
-      "identifier": "memessoccer",
-      "name": "Pack Memes",
+      "identifier": "animados1",
+      "name": "Pack Animados 1",
       "publisher": "Astro Mobile",
       "tray_image_file": "tray.png",
       "publisher_website": "",
@@ -80,6 +80,14 @@
         },
         {
           "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
           "emojis": []
         }
       ]
