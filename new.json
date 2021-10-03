@@ -69,18 +69,6 @@
                "emojis":[
                   
                ]
-            },
-            {
-               "image_file":"10.webp",
-               "emojis":[
-                  
-               ]
-            },
-            {
-               "image_file":"11.webp",
-               "emojis":[
-                  
-               ]
             }
          ]
       },
@@ -195,6 +183,12 @@
             },
             {
                "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
                "emojis":[
                   
                ]
