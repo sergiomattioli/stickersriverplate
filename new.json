@@ -4490,7 +4490,7 @@
       },
       {
          "identifier":"filiales1",
-         "name":"Filiales",
+         "name":"Filiales 1",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -4629,6 +4629,12 @@
             },
             {
                "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
                "emojis":[
                   
                ]
