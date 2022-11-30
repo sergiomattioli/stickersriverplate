@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"worldcup2022GCpolandvsargentina1",
-         "name":"Poland vs Argentina (1)",
+         "name":"Argentina vs Polonia (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -199,7 +199,7 @@
       },
       {
          "identifier":"worldcup2022GCpolandvsargentina2",
-         "name":"Poland vs Argentina (2)",
+         "name":"Argentina vs Polonia (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -394,7 +394,7 @@
       },
       {
          "identifier":"worldcup2022GCpolandvsargentina3",
-         "name":"Poland vs Argentina (3)",
+         "name":"Argentina vs Polonia (3)",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -833,6 +833,87 @@
             },
             {
                "image_file":"30.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico3",
+         "name":"Argentina vs Mexico (3)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
                "emojis":[
                   
                ]
